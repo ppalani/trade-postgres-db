@@ -1,0 +1,4 @@
+*.log
+*.tmp
+*.env
+data/  # if you persist DB data locally
